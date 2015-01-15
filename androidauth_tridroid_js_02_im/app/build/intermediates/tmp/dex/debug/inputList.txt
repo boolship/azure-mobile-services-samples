@@ -1,0 +1,5 @@
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidauth_tridroid_js_02_im\app\build\intermediates\classes\debug
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidauth_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\gson-2.3.1-e4fcc2aba768d17949956ce01db714f78b7a7426.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidauth_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\mobileservices-2.0.1-beta-8454cc5db73b880de41e5619e7f918463605afed.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidauth_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-f5b231daf9c4deceae706442afe8c744e48ce799.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidauth_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\guava-18.0-12b23f7d0c05ba4ec7593005f2354a43976f90df.jar

@@ -1,0 +1,8 @@
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\classes\debug
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-67263bd42d1caae892a0710dc9d076642a9b92a3.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\notifications-1.0.1-2ffeec81562124312a1fce5fe2d6cb86039279f0.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\mobileservices-1.1.5-2c3504d58a97914e0d2947c1ec860a073f170575.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\gson-2.2.2-0808512e32c6a42553e11aace94f97c6565c58f0.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6f3d067757c2912d929d1259a74ab45fb43c0791.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\classes-46bb12e7daa17d6e5a74c46421bbe73f10c3c52a.jar
+C:\Users\Michael\OneDrive\lang\src\azure\pres\androidpush_tridroid_js_02_im\app\build\intermediates\pre-dexed\debug\classes-61f3bcc62a1f7b0ad151181c1084b8bca0c60968.jar

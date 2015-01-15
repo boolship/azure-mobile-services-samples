@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/menu_refresh" android:orderInCategory="101" android:showAsAction="always" android:title="@string/menu_refresh"></item>
+
+</menu><!-- From: file:/C:/Users/Michael/OneDrive/lang/src/azure/pres/androidpush_tridroid_js_02_im/app/src/main/res/menu/activity_main.xml -->
